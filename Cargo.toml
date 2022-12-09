@@ -1,5 +1,5 @@
 [package]
-name = "rust-command-line"
+name = "mars-weight-calculator"
 version = "0.1.0"
 edition = "2021"
 
