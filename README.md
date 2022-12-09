@@ -15,7 +15,7 @@ For the instalation guide [click here](https://www.rust-lang.org/learn/get-start
 Just clone the repo and use cargo to run the code as shown below 
 
 ```bash
-    $ git clone https://github.com/Kalebu/Rust-bouncygame
-    $ cd Rust-bouncygame
-    Rust-bouncygame->$ cargo run 
+    $ git clone https://github.com/federicobaldini/mars-weight-calculator
+    $ cd mars-weight-calculator
+    mars-weight-calculator->$ cargo run 
 ```
