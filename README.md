@@ -6,9 +6,9 @@ Credit: https://github.com/gavadinov and https://www.udemy.com/course/rust-funda
 
 ## Requirements
 
-To successful run this code, you need to have Rust and Cargo installed on your Machine 
+To successful run this code, you need to have Rust and Cargo installed on your Machine.
 
-[CLICK HERE](https://www.rust-lang.org/learn/get-started) fo instalation guide 
+For the instalation guide [click here](https://www.rust-lang.org/learn/get-started).
 
 ## Getting started 
 
