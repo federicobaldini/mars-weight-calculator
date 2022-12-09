@@ -4,7 +4,7 @@ A simple command-line application that get an Earth weight and convert it to a w
 
 Credit: https://github.com/gavadinov and https://www.udemy.com/course/rust-fundamentals
 
-## Requiremenst
+## Requirements
 
 To successful run this code, you need to have Rust and Cargo installed on your Machine 
 
